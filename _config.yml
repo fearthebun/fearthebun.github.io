@@ -1,6 +1,8 @@
 title: "Nayaab Ali"
 author: "Nayaab Ali"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+url: fearthebun.github.io
+baseurl: /fearthebun.github.io
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
