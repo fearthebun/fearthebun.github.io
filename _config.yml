@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nayaab.ali780@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/fearthebun"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/nayaab-a-6238a2212/"}
+  - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/nayaab-ali"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
