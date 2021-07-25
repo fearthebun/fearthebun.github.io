@@ -1,20 +1,31 @@
 ---
 layout: page
-title: "Welcome to my portfolio."
+title: "Welcome to my portfolio!"
 ---
 
-<!-- randoms to do's:
+<!-- to do:
 - fix image layout on mobile
-- change font
+- make pagination not ugly
+- make blog post titles not links
+- make navbar blog still pink when on other page and when on blog posts
 - favicon?
 - maybe fix scrollbar issue
 
-sections:
-- home page (about me)
-- projects
-- blog
+- write about me+add photo
+- entire projects page
+- make+add resume :(
+- get a few blog posts up
 -->
 
 <img style="float: right; padding-left:50px" width="250" src="assets/image0.png">
 
-I'm a first year at UofT's Engineering Science program. Very pog. Uhhhhh ummmmuhmmmm how to embed images. giant paragrapht giant paragrapht giant paragrapht giant paragrapht giant paragrapht giant paragrapht giant paragrapht giant paragrapht giant paragrapht giant paragrapht giant paragrapht giant paragrapht giant paragrapht giant paragrapht giant paragrapht [woah there](https://www.google.com "Google's Homepage")
+
+I'm Nayaab, commonly found online as `fearthebun`. Currently, I'm in my first year at the University of Toronto's Engineering Science program, interested in specializing in Aerospace Engineering. I enjoy drawing, graphic design, and, as of late, learning new programming languages! I've been doing [Harvard's CS50 course](https://cs50.harvard.edu/x/2021/) to learn the basics of C.
+
+If you want to know more about me and some of my work, click around! You're bound to find something cool :) 
+
+If you want to contact me, feel free to do so through email ([nayaab.ali@mail.utoronto.ca](mailto:nayaab.ali@mail.utoronto.ca)). I'll be sure to get back to you!
+
+
+
+
