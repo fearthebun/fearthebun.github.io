@@ -6,7 +6,6 @@ title: "Welcome to my portfolio."
 <!-- randoms to do's:
 - fix image layout on mobile
 - change font
-- try to make current page on navbar purple
 - favicon?
 - maybe fix scrollbar issue
 
