@@ -5,8 +5,7 @@ title: "Welcome to my portfolio."
 
 <!-- randoms to do's:
 - fix image layout on mobile
-- fix hover on navbar
-- change footer message
+- change font
 - favicon?
 - maybe fix scrollbar issue
 
@@ -14,7 +13,6 @@ sections:
 - home page (about me)
 - projects
 - blog
-- resume link
 -->
 
 <img style="float: right; padding-left:50px" width="250" src="assets/image0.png">
