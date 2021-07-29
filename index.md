@@ -9,11 +9,10 @@ title: "Welcome to my portfolio!"
 - make blog post titles not links
 - make navbar blog still pink when on other page and when on blog posts
 - favicon?
+- why is my resume pdf link still called the canva name lol
 - maybe fix scrollbar issue
 
-- write about me+add photo
-- entire projects page
-- make+add resume :(
+- add photo of me
 - get a few blog posts up
 -->
 
