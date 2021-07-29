@@ -35,6 +35,9 @@ comments:
 paginate: 3
 paginate_path: "/blog/page:num/"
 
+collections:
+  - projects
+
 plugins:
  - jekyll-feed
  - jekyll-paginate
